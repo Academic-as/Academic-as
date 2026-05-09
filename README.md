@@ -5,8 +5,8 @@
 ---
 
 ### 🌐 Мои ресурсы
-*   **Steam Profile:** [Academic_AS](https://steamcommunity.com/id/Academic_AS/) — мой игровой профиль и активность в сообществе.
-*   **YouTube Channel:** [@academic_studios](https://youtube.com/@academic_studios) — здесь я делюсь результатами своих творческих экспериментов.
+*   **Steam:** [Academic_AS](https://steamcommunity.com/id/Academic_AS/)
+*   **YouTube:** [@academic_studios](https://youtube.com/@academic_studios)
 
 ---
 *«Экспериментирую с кодом, создаю малые миры.»*
