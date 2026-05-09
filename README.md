@@ -1,15 +1,12 @@
-# 🌌 Привет, я Academic!
-
-Я разработчик и музыкант, который любит экспериментировать с кодом и звуком. Занимаюсь поддержкой игровых сообществ и созданием атмосферной электроники.
-
----
-
-### 🛠 Чем я занимаюсь
-*   **Инструменты для SCP:SL:** Разработал и поддерживаю **C.A.S.S.I.E. Generator | FLX** (актуальная версия **v1.3**). Проект перенесен на GitHub для более удобного доступа и обновлений.
-*   **Администрирование:** Являюсь частью команды **FunRP** на проекте **FLX PROJECT**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Project-FLX%20PROJECT-blue?style=for-the-badge" />
+</p>
 
 ---
 
-### 📫 Контакты
-*   [Steam Profile](https://steamcommunity.com/id/Academic_AS/)
-*   [YouTube Channel](https://youtube.com/@academic_studios)
+### 📫 Связь
+*   **Steam:** [Academic_AS](https://steamcommunity.com/id/Academic_AS/)
+*   **YouTube:** [@academic_studios](https://youtube.com/@academic_studios)
+
+---
+*«Экспериментирую с кодом, создаю малые миры.»*
