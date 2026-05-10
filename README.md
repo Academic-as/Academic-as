@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 Мои ресурсы
-*   **Steam:** [Academic_AS](https://steamcommunity.com/id/Academic_AS/)
+*   **Steam:** [Academic](https://steamcommunity.com/id/Academic_AS/)
 *   **YouTube:** [@academic_studios](https://youtube.com/@academic_studios)
 
 ---
