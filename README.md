@@ -9,4 +9,4 @@
 *   **YouTube:** [@academic_studios](https://youtube.com/@academic_studios)
 
 ---
-*«Экспериментирую с кодом, создаю малые миры.»*
+*«Экспериментирую с кодом...»*
